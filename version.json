@@ -1,0 +1,14 @@
+{
+    "name": "Quick FOod",
+    "major": 1,
+    "minor": 0,
+    "patch": 2,
+    "channel": "stable",
+    "changelogs": [
+        "- new UI update",
+        "- Performance optimized",
+    ],
+    "android_link":"https://play.google.com/store/apps/details?id=com.delivery.quickfood",
+    "ios_link":"https://play.google.com/store/apps/details?id=com.delivery.quickfood",
+    "forced_versions": ["1.0.1"]
+}
