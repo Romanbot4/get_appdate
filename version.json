@@ -10,5 +10,5 @@
     ],
     "android_link":"https://play.google.com/store/apps/details?id=com.delivery.quickfood",
     "ios_link":"https://play.google.com/store/apps/details?id=com.delivery.quickfood",
-    "forced_versions": ["1.0.1"]
+    "forced_versions": []
 }
